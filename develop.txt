@@ -1,3 +1,4 @@
 Virada da Qualidade
-Testes
-Bugs
+ChronosAcademy
+Iterasys
+PlayPocket
